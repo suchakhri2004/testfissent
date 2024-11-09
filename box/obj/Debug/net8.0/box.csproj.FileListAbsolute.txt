@@ -1,0 +1,14 @@
+/Users/suchakhri/Desktop/project/testFissent/box/bin/Debug/net8.0/box
+/Users/suchakhri/Desktop/project/testFissent/box/bin/Debug/net8.0/box.deps.json
+/Users/suchakhri/Desktop/project/testFissent/box/bin/Debug/net8.0/box.runtimeconfig.json
+/Users/suchakhri/Desktop/project/testFissent/box/bin/Debug/net8.0/box.dll
+/Users/suchakhri/Desktop/project/testFissent/box/bin/Debug/net8.0/box.pdb
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/box.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/box.AssemblyInfoInputs.cache
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/box.AssemblyInfo.cs
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/box.csproj.CoreCompileInputs.cache
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/box.dll
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/refint/box.dll
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/box.pdb
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/box.genruntimeconfig.cache
+/Users/suchakhri/Desktop/project/testFissent/box/obj/Debug/net8.0/ref/box.dll
